@@ -1,1 +1,2 @@
 # DSC180A-ProjectCheckpoint
+In the pytorch_test.ipynb file you will find us playing around with Pytorch as we are not familiar with it. The dataset is just a toy dataset and is unrelated to our dataset for the project. We have not obtained access to the dataset for our project yet, but we know that we will use Pytorch. We plan to learn Pytorch and other necessary libraries while we wait for our dataset.
